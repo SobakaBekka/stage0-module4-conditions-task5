@@ -15,6 +15,7 @@ public class BasicSwitch {
                 break;
             case 20:
                 System.out.println("default");
+
                 break;
         }
     }
